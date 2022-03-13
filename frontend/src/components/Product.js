@@ -10,7 +10,7 @@ const Product = () => {
         alt="product name"
       />
       <div className="product__info">
-        <p className="info__name"></p>
+        <p className="info__name">Product</p>
         <p className="info__description">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut vel
           corporis eaque totam libero exercitationem repellat officiis quidem
