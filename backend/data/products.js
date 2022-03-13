@@ -1,57 +1,57 @@
 const products = [
   {
-    name: "PlayStation 5",
+    name: "Delaware Chalet River Rock 3inch to 5inch (Bulk)",
     imageUrl:
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80",
+      "https://images.unsplash.com/photo-1507832321772-e86cc0452e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
     description:
-      "PlayStation 5 (PS5) is a home video game console developed by Sony Interactive Entertainment. Announced in 2019 as the successor to the PlayStation 4, the PS5 was released on November 12, 2020 in Australia, Japan, New Zealand, North America, Singapore, and South Korea, and November 19, 2020 onwards in other major markets except China and India.",
-    price: 499,
-    countInStock: 15,
+      "This is a natural river stone which has smooth rounded surfaces and flat in shape and varies in size between 3inch to 5inch or whatever can get through the screen. Used in many landscape applications, as well as, a popular choice for water features.",
+    price: 220,
+    countInStock: 1500,
   },
   {
-    name: "Iphone 12",
+    name: "Rip Rap-Class A - Bulk",
     imageUrl:
-      "https://images.unsplash.com/photo-1605787020600-b9ebd5df1d07?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1463&q=80",
+      "https://images.unsplash.com/photo-1589479294984-bc1388a00a2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
     description:
-      "Welcome to a new era of iPhone. Beautifully bright 6.1-inch Super Retina XDR display.1 Ceramic Shield with 4x better drop performance.2 Incredible low-light photography with Night mode on all cameras. Cinema-grade Dolby Vision video recording, editing, and playback. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging.3 Let the fun begin.",
-    price: 1099,
-    countInStock: 10,
+      "Varies in size approximate average is a SOFTBALL size. This product size of rock is rock that can get through a screen (in any direction) so will have various sizes. Used to driveway ditch areas, stream-beds, bridge abutments, pilings, and erosion areas with high water flow.",
+    price: 51,
+    countInStock: 1000,
   },
   {
-    name: "Cannon EOS-1D",
+    name: "50/50 SOIL BLEND with PERMATILL",
     imageUrl:
-      "https://images.unsplash.com/photo-1519183071298-a2962feb14f4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://images.unsplash.com/photo-1492496913980-501348b61469?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
     description:
-      "The EOS-1D X combines speed with image quality, to create the next generation camera for professionals. Full frame 18 megapixel sensor with Dual “DIGIC 5+” processors sets the standard, and up to 12 frames per second shooting takes it beyond.",
-    price: 1300,
-    countInStock: 5,
-  },
-  {
-    name: "Amazon Alexa",
-    imageUrl:
-      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
-    description:
-      "It is capable of voice interaction, music playback, making to-do lists, setting alarms, streaming podcasts, playing audiobooks, and providing weather, traffic, sports, and other real-time information, such as news. Alexa can also control several smart devices using itself as a home automation system.",
+      "THE PERFECT BASIC SOIL BLEND! This was created to make an easy to use planting medium which has organic nutrients to make a mixture that will both provide structure to your plants and allow water to flow through. An all-around product that may be used for planting shrubs, building berms, raised beds or flower or gardens, as well as, many other landscape applications.",
     price: 50,
-    countInStock: 25,
+    countInStock: 500,
   },
   {
-    name: "Audio Technica Headphones",
+    name: "Probase (Soil Conditioner-Aged Pine Bark Fines)",
     imageUrl:
-      "https://images.unsplash.com/photo-1558756520-22cfe5d382ca?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://images.unsplash.com/photo-1589135716303-d04b9f3ab4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
     description:
-      "Outfitted with 45mm large-aperture dynamic drivers and an over-ear, closed-back design, the ATH-M50x headphones deliver clarity, deep bass, and extended bandwidth (15 Hz to 28 kHz) while isolating you from outside sounds.",
-    price: 233,
-    countInStock: 4,
+      "Probase is made from aged pine bark fines. Great for annuals or that perfect finished look! To get more consistency you want to GET all your MULCH AT THE SAME TIME (from same load) because every truck load CAN vary. May vary in color due to being a natural resource from the EARTH.",
+    price: 27,
+    countInStock: 2500,
   },
   {
-    name: "JBL FLIP 4",
+    name: "Triple Shredded HARDWOOD Bark Mulch",
     imageUrl:
-      "https://images.unsplash.com/photo-1564424224827-cd24b8915874?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80",
+      "https://images.unsplash.com/photo-1604176857875-cdbd7dfc3b7a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
     description:
-      "JBL Flip 4 is the next generation in the award-winning Flip series; it is a portable Bluetooth speaker that delivers surprisingly powerful stereo sound. This compact speaker is powered by a 3000mAh rechargeable Li-ion battery that offers up to 12 hours of continuous, high-quality audio playtime.",
-    price: 140,
-    countInStock: 10,
+      "his is a NATURAL RESOURCE, color will vary depending on when the bark is shredded/processed and from what part of the country we receive the bark. Unfortunately, customers CAN NOT order light or dark because it all depends on what is available during the season.",
+    price: 23,
+    countInStock: 4000,
+  },
+  {
+    name: "Walnut DESIGNER Mulch",
+    imageUrl:
+      "https://images.unsplash.com/photo-1599776765440-3504b0d25653?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    description:
+      "Pure wood product is ground up pallets that has been dyed WALNUT using non-toxic EPA approved colorants. Has longer lasting color than natural mulch and is ideal for high end landscapes that desire a specific look and texture. Looks like a blanket laid out. Designer Mulch typically holds its color for one year depending upon the amount of direct sunlight and rain. If you want consistency in your product year over year you will want to use one of our DESIGNER MULCHES and not one of our NATURAL RESOURCE products.",
+    price: 29,
+    countInStock: 1000,
   },
 ];
 
