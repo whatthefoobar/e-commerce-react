@@ -1,4 +1,4 @@
-.cartitem {
+.cartItem {
   width: 100%;
   padding: 1rem;
   display: grid;
@@ -33,8 +33,8 @@
 }
 
 .cartItem__deleteBtn:hover,
-.carItem__deleteBtn:active,
-.carItem__deleteBtn:focus {
+.cartItem__deleteBtn:active,
+.cartItem__deleteBtn:focus {
   background: #171717;
   transform: scale(1.2);
 }
@@ -49,7 +49,7 @@
     padding: 8px 13px;
   }
 
-  .cartitem__price {
+  .cartItem__price {
     font-size: 0.8rem;
   }
 }
@@ -64,7 +64,7 @@
     padding: 5px 8px;
   }
 
-  .cartitem__price {
+  .cartItem__price {
     font-size: 0.6rem;
   }
 }
