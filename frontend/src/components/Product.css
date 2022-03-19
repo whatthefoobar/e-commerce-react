@@ -9,6 +9,11 @@
   flex-direction: column;
   justify-content: space-between;
   flex-direction: column;
+  transition: all 0.7s ease-out;
+}
+
+.product:hover {
+  transform: scale(1.2);
 }
 
 .product > img {
