@@ -1,5 +1,5 @@
 # e-commerce-react
 
-brief mission for Data Interaction module
+Learn Redux while building a e-commerce cart
 
 Build a shop using MERN stack
